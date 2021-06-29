@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "lazerWithMouse\\lazerWithMouse.ino",
+    "output": "../ArduinoOutput",
+    "port": "COM5"
+}
